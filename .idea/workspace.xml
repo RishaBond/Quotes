@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d1efc0f-2555-4c16-871c-e05c4b1e601b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Montserrat/montserrat.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Montserrat/montserrat.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Montserrat/montserrat.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Montserrat/montserratbold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Montserrat/montserratbold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Montserrat/montserratbold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Raleway/ralewaybold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Raleway/ralewaybold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Raleway/ralewaybold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Raleway/ralewayextralight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Raleway/ralewayextralight.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Raleway/ralewayextralight.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Raleway/ralewaylight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Raleway/ralewaylight.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Raleway/ralewaylight.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Raleway/ralewaymedium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Raleway/ralewaymedium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Raleway/ralewaymedium.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Raleway/ralewayregular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Raleway/ralewayregular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Raleway/ralewayregular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Raleway/ralewaysemibold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Raleway/ralewaysemibold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Raleway/ralewaysemibold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Raleway/ralewaythin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Raleway/ralewaythin.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/Raleway/ralewaythin.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/fontawesome/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/fontawesome/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/fontawesome/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/fontawesome/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/fontawesome/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/bg-hands.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/bg-smile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/favicon/apple-touch-icon-114x114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/favicon/apple-touch-icon-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/favicon/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/favicon/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/photo-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/photo-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/photo-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/photo-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/photo-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/photo-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/quotes/quote-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/quotes/quote-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/quotes/quote-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/quotes/quote-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.bowerrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Quotes.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Irishka.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/fontawesome/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/ht.access" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/common.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/scripts.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-grid/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/css-hamburgers/hamburgers.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/equalHeights/equalheights.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fontawesome/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/jquery/dist/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/autoheight/jquery.mmenu.autoheight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/autoheight/jquery.mmenu.autoheight.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/backbutton/jquery.mmenu.backbutton.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/columns/jquery.mmenu.columns.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/columns/jquery.mmenu.columns.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/counters/jquery.mmenu.counters.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/counters/jquery.mmenu.counters.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/dividers/jquery.mmenu.dividers.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/dividers/jquery.mmenu.dividers.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/drag/jquery.mmenu.drag.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/drag/jquery.mmenu.drag.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/dropdown/jquery.mmenu.dropdown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/dropdown/jquery.mmenu.dropdown.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/fixedelements/jquery.mmenu.fixedelements.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/iconpanels/jquery.mmenu.iconpanels.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/iconpanels/jquery.mmenu.iconpanels.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/keyboardnavigation/jquery.mmenu.keyboardnavigation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/keyboardnavigation/jquery.mmenu.keyboardnavigation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/lazysubmenus/jquery.mmenu.lazysubmenus.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/navbars/jquery.mmenu.navbars.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/navbars/jquery.mmenu.navbars.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/offcanvas/jquery.mmenu.offcanvas.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/offcanvas/jquery.mmenu.offcanvas.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/rtl/jquery.mmenu.rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/rtl/jquery.mmenu.rtl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/screenreader/jquery.mmenu.screenreader.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/screenreader/jquery.mmenu.screenreader.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/scrollbugfix/jquery.mmenu.scrollbugfix.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/searchfield/jquery.mmenu.searchfield.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/searchfield/jquery.mmenu.searchfield.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/sectionindexer/jquery.mmenu.sectionindexer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/sectionindexer/jquery.mmenu.sectionindexer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/setselected/jquery.mmenu.setselected.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/setselected/jquery.mmenu.setselected.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/toggles/jquery.mmenu.toggles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/addons/toggles/jquery.mmenu.toggles.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/css/jquery.mmenu.all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/css/jquery.mmenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/css/jquery.mmenu.oncanvas.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/borderstyle/jquery.mmenu.borderstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/effects/jquery.mmenu.effects.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/fullscreen/jquery.mmenu.fullscreen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/iconbar/jquery.mmenu.iconbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/justifiedlistview/jquery.mmenu.justifiedlistview.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/multiline/jquery.mmenu.multiline.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/pagedim/jquery.mmenu.pagedim.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/popup/jquery.mmenu.popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/positioning/jquery.mmenu.positioning.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/shadows/jquery.mmenu.shadows.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/themes/jquery.mmenu.themes.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/tileview/jquery.mmenu.tileview.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/extensions/widescreen/jquery.mmenu.widescreen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/js/jquery.mmenu.all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/js/jquery.mmenu.all.min.umd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/js/jquery.mmenu.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/js/jquery.mmenu.min.umd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/js/jquery.mmenu.oncanvas.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/wrappers/angular/jquery.mmenu.angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/wrappers/bootstrap/jquery.mmenu.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/wrappers/bootstrap/jquery.mmenu.bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/wrappers/jquerymobile/jquery.mmenu.jquerymobile.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/wrappers/magento/jquery.mmenu.magento.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/wrappers/olark/jquery.mmenu.olark.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/wrappers/turbolinks/jquery.mmenu.turbolinks.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/mmenu/wrappers/wordpress/jquery.mmenu.wordpress.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/owl.carousel/assets/owl.carousel.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/owl.carousel/assets/owl.theme.default.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/owl.carousel/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_fonts.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_libs.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_media.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_vars.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/main.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../S-Mitler/.idea/S-Mitler.iml" afterPath="$PROJECT_DIR$/../S-Mitler/.idea/S-Mitler.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../S-Mitler/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../S-Mitler/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../S-Mitler/app/sass/_vars.sass" afterPath="$PROJECT_DIR$/../S-Mitler/app/sass/_vars.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../S-Mitler/app/sass/main.sass" afterPath="$PROJECT_DIR$/../S-Mitler/app/sass/main.sass" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.66442543">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-4756">
+                  <caret line="10" column="62" lean-forward="true" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+                  <folding>
+                    <element signature="n#style#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#style#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="main.sass" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="539">
+                  <caret line="350" column="20" lean-forward="false" selection-start-line="350" selection-start-column="20" selection-end-line="350" selection-end-column="20" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_media.sass" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/sass/_media.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="290">
+                  <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/js/common.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="794">
+                  <caret line="42" column="7" lean-forward="false" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>header</find>
+      <find>site-header</find>
+      <find>$</find>
+      <find>carousel</find>
+      <find>content</find>
+      <find>hei</find>
+      <find>dot</find>
+      <find>butt</find>
+      <find>quote-text</find>
+      <find>form</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/sass/_fonts.sass" />
+        <option value="$PROJECT_DIR$/../S-Mitler/app/sass/_vars.sass" />
+        <option value="$PROJECT_DIR$/app/sass/_libs.sass" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/../S-Mitler/app/sass/main.sass" />
+        <option value="$PROJECT_DIR$/app/js/common.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/sass/_media.sass" />
+        <option value="$PROJECT_DIR$/app/sass/main.sass" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/../S-Mitler/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Quotes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="S-Mitler" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Quotes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="S-Mitler" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Quotes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="S-Mitler" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Quotes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="S-Mitler" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Quotes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Quotes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Quotes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Quotes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Quotes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Quotes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Quotes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Quotes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="C:\Users\Irishka\AppData\Roaming\npm\node_modules\gulp" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d1efc0f-2555-4c16-871c-e05c4b1e601b" name="Default" comment="" />
+      <created>1500298522986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500298522986</updated>
+      <workItem from="1500298525845" duration="29610000" />
+      <workItem from="1500573166926" duration="20368000" />
+      <workItem from="1500894221641" duration="13318000" />
+      <workItem from="1501154830857" duration="6188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="69484000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.503792" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12899786" sideWeight="0.496208" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.503792" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4611">
+          <caret line="159" column="43" lean-forward="true" selection-start-line="159" selection-start-column="43" selection-end-line="159" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1827">
+          <caret line="63" column="36" lean-forward="false" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/scripts.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../S-Mitler/app/sass/_fonts.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_mixins/_font-face.sass" />
+    <entry file="file://$PROJECT_DIR$/app/fonts/Montserrat/montserrat.css" />
+    <entry file="file://$PROJECT_DIR$/app/fonts/Raleway/raleway.css" />
+    <entry file="file://$PROJECT_DIR$/../S-Mitler/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../S-Mitler/app/sass/_vars.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="36" lean-forward="true" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_libs.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_fonts.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-783">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="32" column="49" lean-forward="true" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../S-Mitler/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1871">
+          <caret line="330" column="8" lean-forward="false" selection-start-line="330" selection-start-column="8" selection-end-line="330" selection-end-column="83" />
+          <folding>
+            <element signature="n#section#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#4;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../S-Mitler/app/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="709">
+          <caret line="794" column="0" lean-forward="false" selection-start-line="794" selection-start-column="0" selection-end-line="815" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../S-Mitler/app/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="90" column="4" lean-forward="false" selection-start-line="90" selection-start-column="4" selection-end-line="96" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="794">
+          <caret line="42" column="7" lean-forward="false" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4756">
+          <caret line="10" column="62" lean-forward="true" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_media.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="350" column="20" lean-forward="false" selection-start-line="350" selection-start-column="20" selection-end-line="350" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
